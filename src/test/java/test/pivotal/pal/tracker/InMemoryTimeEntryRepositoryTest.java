@@ -1,7 +1,11 @@
 package test.pivotal.pal.tracker;
 
 import io.pivotal.pal.tracker.InMemoryTimeEntryRepository;
+<<<<<<< HEAD
 import io.pivotal.pal.tracker.domian.TimeEntry;
+=======
+import io.pivotal.pal.tracker.TimeEntry;
+>>>>>>> 69b119f... Add tests for MVC lab
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
