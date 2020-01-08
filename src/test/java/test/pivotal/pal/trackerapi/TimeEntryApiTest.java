@@ -3,7 +3,11 @@ package test.pivotal.pal.trackerapi;
 import com.jayway.jsonpath.DocumentContext;
 import io.pivotal.pal.tracker.PalTrackerApplication;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import io.pivotal.pal.tracker.domian.TimeEntry;
+=======
+import io.pivotal.pal.tracker.TimeEntry;
+>>>>>>> 69b119f... Add tests for MVC lab
 =======
 import io.pivotal.pal.tracker.TimeEntry;
 >>>>>>> 69b119f... Add tests for MVC lab
