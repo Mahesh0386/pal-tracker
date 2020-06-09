@@ -1,30 +1,12 @@
 package test.pivotal.pal.tracker;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-import io.pivotal.pal.tracker.domian.TimeEntry;
-=======
-import io.pivotal.pal.tracker.TimeEntry;
 import io.pivotal.pal.tracker.TimeEntryController;
-import io.pivotal.pal.tracker.TimeEntryRepository;
->>>>>>> 69b119f... Add tests for MVC lab
-=======
 import io.pivotal.pal.tracker.TimeEntry;
-import io.pivotal.pal.tracker.TimeEntryController;
-import io.pivotal.pal.tracker.TimeEntryRepository;
->>>>>>> 69b119f... Add tests for MVC lab
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-<<<<<<< HEAD
-<<<<<<< HEAD
-import io.pivotal.pal.tracker.repository.TimeEntryRepository;
-=======
->>>>>>> 69b119f... Add tests for MVC lab
-=======
->>>>>>> 69b119f... Add tests for MVC lab
-
+import io.pivotal.pal.tracker.TimeEntryRepository;
 import java.time.LocalDate;
 import java.util.List;
 

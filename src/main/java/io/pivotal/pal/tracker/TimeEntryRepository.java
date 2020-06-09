@@ -1,6 +1,6 @@
-package io.pivotal.pal.tracker.repository;
+package io.pivotal.pal.tracker;
 
-import io.pivotal.pal.tracker.domian.TimeEntry;
+import io.pivotal.pal.tracker.TimeEntry;
 
 import java.util.List;
 
