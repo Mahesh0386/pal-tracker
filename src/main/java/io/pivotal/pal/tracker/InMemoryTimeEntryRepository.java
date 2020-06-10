@@ -1,5 +1,7 @@
 package io.pivotal.pal.tracker;
 
+import org.springframework.stereotype.Repository;
+
 import java.sql.Time;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -7,7 +9,6 @@ import java.util.List;
 import java.util.Map;
 
 public class InMemoryTimeEntryRepository implements TimeEntryRepository {
-
 
     private Long id = 1L;
 
